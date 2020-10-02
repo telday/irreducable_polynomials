@@ -1,3 +1,5 @@
+% script will find all polynomials of degree <= poly_degree in extension field extension_field
+% and print them
 global poly_degree = 3; # The maximum degree polynomial we are looking for
 global extension_field = 3; # The extension field we are in
 
